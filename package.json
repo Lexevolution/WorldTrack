@@ -1,0 +1,14 @@
+{
+  "name": "worldtrack",
+  "module": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "mvcontact-bot": "github:Lexevolution/mvcontact-bot"
+  }
+}

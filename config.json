@@ -1,0 +1,12 @@
+{
+    "username": "",
+    "password": "",
+    "TOTP": "",
+    "autoAcceptFriendRequests": "all",
+    "autoExtendLogin": true,
+    "updateStatus": true,
+    "readMessagesOnReceive": true,
+    "versionName": "WorldTrack",
+    "logToFile": true,
+    "logPath": "."
+}
