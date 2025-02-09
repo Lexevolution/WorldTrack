@@ -33,7 +33,7 @@
 
     "fetch-cookie": ["fetch-cookie@2.2.0", "", { "dependencies": { "set-cookie-parser": "^2.4.8", "tough-cookie": "^4.0.0" } }, "sha512-h9AgfjURuCgA2+2ISl8GbavpUdR+WGAM2McW/ovn4tVccegp8ZqCKWSBR8uRdM8dDNlx5WdKRWxBYUwteLDCNQ=="],
 
-    "mvcontact-bot": ["mvcontact-bot@github:Lexevolution/mvcontact-bot#85b5002", { "dependencies": { "@microsoft/signalr": "^7.0.14" } }, "Lexevolution-mvcontact-bot-85b5002"],
+    "mvcontact-bot": ["mvcontact-bot@github:Lexevolution/mvcontact-bot#ffecbf1", { "dependencies": { "@microsoft/signalr": "^7.0.14" } }, "Lexevolution-mvcontact-bot-ffecbf1"],
 
     "node-fetch": ["node-fetch@2.7.0", "", { "dependencies": { "whatwg-url": "^5.0.0" }, "peerDependencies": { "encoding": "^0.1.0" }, "optionalPeers": ["encoding"] }, "sha512-c4FRfUm/dbcWZ7U+1Wq0AwCyFL+3nt2bEw05wfxSz+DWpWsitgmSgYmy2dQdWyKC1694ELPqMs/YzUSNozLt8A=="],
 

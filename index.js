@@ -1,3 +1,3 @@
-import { MVContactBot } from "mvcontact-bot";
+import { runBot } from "./contact";
 
-const WorldTrackBot = new MVContactBot();
+runBot();
