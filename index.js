@@ -1,3 +1,6 @@
-import { runBot } from "./contact";
+import { runBot } from "./contact.js";
+import { dbSetup, getList } from "./db.js";
 
-runBot();
+dbSetup();
+getList("testing", "U-test");
+//runBot();
